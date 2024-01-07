@@ -97,3 +97,23 @@ h1{
     border: 15px solid #F00;
     padding: 20px;
 }
+.ka{
+    text-align: center;
+}
+.ami{
+    text-align: center;
+}
+.rafsan{
+    height: 250px;
+    width: 350px;
+    background-position: bottom;
+}
+.kabir{
+    display: flex;
+    padding: 30px;
+    gap: 24px;
+    border-radius: 16px;
+    box-shadow:  0px -35.755px / 100% 142.115% no-repeat;
+
+    ;
+}

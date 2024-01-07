@@ -1,0 +1,35 @@
+.hlw{
+    background-image: url(images/Banner\ Image.png);
+    background-position: center;
+    height: 600px;
+    width: 1320px;
+    color: white;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    justify-content: center;
+    font-size: 32px;
+    font-family: Merriweather;
+}
+.new{
+    text-align: center;
+}
+.container{
+    text-align: center;
+}
+.cl{
+    color: red;
+    margin-bottom: 20px;
+    font-size: 88px;
+}
+.no{
+    color: red;
+    font-size: 24px;
+}
+.fa{
+    margin-top: 18px;
+    font-size: 48px;
+}
+.ro{
+   text-align: center;
+}

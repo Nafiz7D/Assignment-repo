@@ -32,4 +32,21 @@
 }
 .ro{
    text-align: center;
+   margin-bottom: 40px;
+}
+.lo{
+    background-image: url(images/Vectorrr.png);
+    height: 600px;
+    width: 1320px;
+    display: flex;
+}
+.fo{
+    padding: 180px;
+    color: white;
+    margin-bottom: 20px
+}
+.blo{
+    background-color: #FF0000;
+    width: 1320px;
+    height: 482px;
 }

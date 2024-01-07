@@ -56,7 +56,7 @@
 h1{
     text-align: center;
 }
-p{
+.ga{
     display: inline-flex;
     padding: 16px 32px;
     justify-content: center;
@@ -67,4 +67,33 @@ p{
     color: white;
     text-align: center;
 }
+.az{
+    color: #F00;
+}
+.za{
+    text-align: left;
+    margin-bottom: 10px;
+}
 
+.an{
+    text-align: right;
+    color: #F00;
+    font-size: 48px;
+}
+.mo{
+    display: flex;
+    justify-content: space-between;
+}
+.aw{
+    color: #F00;
+
+}
+.la{
+    width: 140px;
+    height: 140px;
+}
+.iz{
+    border-radius: 463px;
+    border: 15px solid #F00;
+    padding: 20px;
+}
